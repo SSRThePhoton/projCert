@@ -4,7 +4,7 @@ services:
 
     www:
 
-       build:
+       build: .
 
        ports:
 
